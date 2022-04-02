@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://demo.tributedao.com/favicon.ico" height="70" alt="Tribute DAO Framework Logo">
-    <h1>Tribute DAO Framework - holy sh*t this might worktouch .env</h1>
+    <h1>Tribute DAO Framework - End Citizens United</h1>
     <strong>A modular, low cost and extensible set of contracts to build your DAO on Ethereum</strong>
 </div>
 <br>
